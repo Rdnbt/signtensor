@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>no.13.jpg</filename>
+	<path>/Users/erdnbt/Projects/Research/signtensor/Tensorflow/workspace/images/collectedimages/no.13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>483</xmin>
+			<ymin>541</ymin>
+			<xmax>795</xmax>
+			<ymax>882</ymax>
+		</bndbox>
+	</object>
+</annotation>

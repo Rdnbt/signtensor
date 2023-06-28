@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>yes.15.jpg</filename>
+	<path>/Users/erdnbt/Projects/Research/signtensor/Tensorflow/workspace/images/collectedimages/yes.15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>847</xmin>
+			<ymin>765</ymin>
+			<xmax>1283</xmax>
+			<ymax>1046</ymax>
+		</bndbox>
+	</object>
+</annotation>

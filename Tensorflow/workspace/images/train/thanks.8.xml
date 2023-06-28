@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>thanks.8.jpg</filename>
+	<path>/Users/erdnbt/Projects/Research/signtensor/Tensorflow/workspace/images/collectedimages/thanks.8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thankyou</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>519</xmin>
+			<ymin>620</ymin>
+			<xmax>1571</xmax>
+			<ymax>1077</ymax>
+		</bndbox>
+	</object>
+</annotation>
